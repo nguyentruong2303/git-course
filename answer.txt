@@ -1,0 +1,8 @@
+
+1. 
+git config --global user.name "Tên của bạn"
+git config --global user.email "email@example.com"
+
+2. tên git đang liên quan nhiều thứ nên ko để udemy được ạ
+
+3.
