@@ -1,0 +1,11 @@
+1. Trả lời các câu hỏi
+- git-init: khởi tạo git
+- git add <file_name> : add 1 file lên staging
+- git add . : add tất cả các file ở dưới working lên staging
+- git commit -m message: dùng để ghi lại thay đổi trong Git thông qua tin nhắn
+
+2. 
+
+ Working directory: file1, file2, file3
+ Staging:
+ Repo: file1
